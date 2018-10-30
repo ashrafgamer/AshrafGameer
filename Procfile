@@ -1,1 +1,1 @@
-worke:node bot.js
+worke: node bot.js
